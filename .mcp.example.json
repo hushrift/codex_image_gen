@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "codex-image": {
+      "command": "node",
+      "args": ["/absolute/path/to/codex_image_gen/bridge.mjs", "mcp"]
+    }
+  }
+}
